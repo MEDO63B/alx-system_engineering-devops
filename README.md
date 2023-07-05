@@ -1,1 +1,1 @@
-this is shell basics Repo
+this is shell basics Repository

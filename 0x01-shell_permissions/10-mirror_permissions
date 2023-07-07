@@ -1,2 +1,2 @@
 #!/bin/bash
-mode=$(stat -c %a olleh) if (true) then do chmod "$mode" hello
+mode=$(stat -c %a olleh) do  chmod "$mode" hello
